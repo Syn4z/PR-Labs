@@ -1,6 +1,7 @@
 from player import Player
 import xml.etree.ElementTree as xmlTree
 import player_pb2
+from datetime import datetime
 
 
 class PlayerFactory:
@@ -55,17 +56,30 @@ class PlayerFactory:
         return xmlString
 
     def from_protobuf(self, binary):
-        # This function should transform a binary protobuf string into a list with Player objects.
-        players_list = player_pb2.PlayersList()
-        players_list.ParseFromString(binary)
-
-        return players_list.player
+        playersList = player_pb2.PlayersList()
+        playersList.ParseFromString(binary)
+        playersObjects = []
+        for player_message in playersList.player:
+            player = Player(
+                nickname=player_message.nickname,
+                email=player_message.email,
+                date_of_birth=player_message.date_of_birth,
+                xp=player_message.xp,
+                cls=player_pb2.Class.Name(player_message.cls)
+            )
+            playersObjects.append(player)
+        return playersObjects
 
     def to_protobuf(self, list_of_players):
-        # This function should transform a list with Player objects into a binary protobuf string.
-
-        pass
-
-fac = PlayerFactory()
-binary = b'\x0a\x05Alice\x12\x07alice@example.com\x1a\x0B1990-01-01\x20\x64\x28'
-fac.from_protobuf(binary)
+        playersMessages = []
+        for player in list_of_players:
+            player_message = player_pb2.PlayersList.Player()
+            player_message.nickname = player.nickname
+            player_message.email = player.email
+            player_message.date_of_birth = datetime.strftime(player.date_of_birth, "%Y-%m-%d")
+            player_message.xp = player.xp
+            player_message.cls = player_pb2.Class.Value(player.cls)
+            playersMessages.append(player_message)
+        playersMessagesList = player_pb2.PlayersList(player=playersMessages)
+        binaryData = playersMessagesList.SerializeToString()
+        return binaryData
