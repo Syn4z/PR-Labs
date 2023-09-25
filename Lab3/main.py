@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 
 def parseLinks(url, maxPages=None):
@@ -27,10 +28,36 @@ def parseLinks(url, maxPages=None):
     return linkList
 
 
-if __name__ == "__main__":
-    url = "https://999.md/ro/list/real-estate/apartments-and-rooms?applied=1&eo=12900&eo=12912&eo=12885&eo=13859&ef=32&ef=33&o_33_1=776"
-    maxPages = 4
+def extractInfoFromPage(url):
+    response = requests.get(url)
+    if response.status_code != 200:
+        print(f"Failed to fetch {url}")
+        return None
 
-    links = parseLinks(url, maxPages)
-    for link in links:
-        print(link)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    caracteristiciSection = soup.find('h2', string='Caracteristici')
+
+    if not caracteristiciSection:
+        print(f"No 'Caracteristici' section found on {url}")
+        return None
+
+    info = {}
+    for li in caracteristiciSection.find_next('ul').find_all('li', class_='m-value'):
+        key = li.find('span', class_='adPage__content__features__key').text.strip()
+        value = li.find('span', class_='adPage__content__features__value').text.strip()
+        info[key] = value
+
+    return info
+
+
+if __name__ == "__main__":
+    inputUrl = "https://999.md/ro/list/real-estate/apartments-and-rooms?applied=1&eo=12900&eo=12912&eo=12885&eo=13859&ef=32&ef=33&o_33_1=776"
+
+    links = parseLinks(inputUrl, 1)
+    pageInfo = []
+    resultInfo = extractInfoFromPage(links[0])
+    if resultInfo:
+        pageInfo.append(resultInfo)
+    jsonData = json.dumps(pageInfo, ensure_ascii=False, indent=2)
+    print(jsonData)
