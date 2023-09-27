@@ -1,2443 +1,221 @@
 [
   {
     "Caracteristici": {
-      "Suprafață totală": "67   m²",
-      "Nivelul": "2",
-      "Număr de nivele": "10",
+      "Suprafață totală": "42   m²",
+      "Nivelul": "3",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "15",
       "Numărul de camere": "Apartament cu 2 camere",
       "Autorul anunțului": "Dezvoltator imobiliar",
       "Fond locativ": "Construcţii noi"
     },
     "Adăugător": {
       "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
       "Geamuri termopan": null,
-      "Linie telefonică": null,
-      "Interfon": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
       "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "60 300 €",
-      "USD": "≈ 64 136 $",
-      "Lei": "≈ 1 166 076 lei"
+      "Euro": "58 240 €",
+      "USD": "≈ 61 706 $",
+      "Lei": "≈ 1 121 056 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  bd. Dacia60/15",
-    "Contacte": "tel:+37360875000"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  bd. Renașterii Naționale10",
+    "Contacte": "tel:+37379900999"
   },
   {
     "Caracteristici": {
       "Balcon": "2",
       "Suprafață totală": "85   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "12",
-      "Număr de nivele": "12",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "94 500 €",
-      "USD": "≈ 100 511 $",
-      "Lei": "≈ 1 827 432 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  Alba Iulia87",
-    "Contacte": "tel:+37360436201"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "25   m²",
-      "Nivelul": "6",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Condiții de utilizare": {
-      "Copii": "Copii",
-      "Animale": "Animale"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Lei": "250 lei",
-      "Euro": "≈ 13 €",
-      "USD": "≈ 14 $"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Ismail88",
-    "Contacte": "tel:+37360562494"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "40   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Garaj",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi",
-      "Suprafața bucătăriei": "11   m²",
-      "Înălțimea tavanului": "275   cm"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Internet": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "37 934 €",
-      "USD": "≈ 40 347 $",
-      "Lei": "≈ 733 564 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Dumbrava,  Periferie,  str. Durlești 10",
-    "Contacte": "tel:+37360294929"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "65   m²",
-      "Nivelul": "2",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Condiții de utilizare": {
-      "Copii": "Copii",
-      "Animale": "Animale"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "430 €",
-      "USD": "≈ 458 $",
-      "Lei": "≈ 8 316 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Gheorghe Asachi58",
-    "Contacte": "tel:+37369879928"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "114   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "Demisol",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Garaj",
-      "Număr de nivele": "8",
-      "Numărul de camere": "Apartament cu 4 camere",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi",
-      "Suprafața bucătăriei": "13   m²",
-      "Înălțimea tavanului": "275   cm"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Internet": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "101 460 €",
-      "USD": "≈ 107 914 $",
-      "Lei": "≈ 1 962 024 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Durlești10",
-    "Contacte": "tel:+37360294929"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "68   m²",
-      "Nivelul": "3",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "49 700 €",
-      "USD": "≈ 52 862 $",
-      "Lei": "≈ 961 094 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Cartuşa95/4",
-    "Contacte": "tel:+37379755664"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "32   m²",
-      "Nivelul": "4",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar"
-    },
-    "Condiții de utilizare": {
-      "Copii": "Copii",
-      "Animale": "Animale"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Lei": "600 lei",
-      "Euro": "≈ 32 €",
-      "USD": "≈ 34 $"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Nicolae Dimo17/2",
-    "Contacte": "tel:+37378424261"
-  },
-  {
-    "Caracteristici": {
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar"
-    },
-    "Condiții de utilizare": {
-      "Copii": "Copii",
-      "Animale": "Animale"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Decomandat": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Parchet": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "350 €",
-      "USD": "≈ 373 $",
-      "Lei": "≈ 6 769 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.",
-    "Contacte": "tel:+37367360792"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "79   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "1",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "16",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală",
-      "Înălțimea tavanului": "287   cm"
-    },
-    "Adăugător": {
-      "Decomandat": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "78 000 €",
-      "USD": "≈ 82 962 $",
-      "Lei": "≈ 1 508 357 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Ion Dumeniuc26",
-    "Contacte": "tel:+37378864174"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "83   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "14",
-      "Tipul clădirii": "Cărămidă",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "15",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Dezvoltator": "Horus",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Geamuri panoramice": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "78 000 €",
-      "USD": "≈ 82 962 $",
-      "Lei": "≈ 1 508 357 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Matei Basarab1/1",
-    "Contacte": "tel:+37368888925"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "55   m²",
-      "Bloc sanitar": "2",
-      "Nivelul": "1",
-      "Tipul clădirii": "Panouri",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar",
-      "Planul": "Ms (serie  moldovenească)",
-      "Suprafața bucătăriei": "10   m²"
-    },
-    "Adăugător": {
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "49 200 €",
-      "USD": "≈ 52 330 $",
-      "Lei": "≈ 951 425 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  Индепенденцией20/1",
-    "Contacte": "tel:+37378789004"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "64   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "4",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Dezvoltator": "Reconscivil",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Geamuri panoramice": null,
-      "Ușă blindată": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "61 180 €",
-      "USD": "≈ 65 072 $",
-      "Lei": "≈ 1 183 093 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Iazului74",
-    "Contacte": "tel:+37368888925"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "75   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "2",
-      "Nivelul": "5",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar",
-      "Planul": "Varț (Varnițkaia)"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "59 900 €",
-      "USD": "≈ 63 710 $",
-      "Lei": "≈ 1 158 341 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Petru Zadnipru.",
-    "Contacte": "tel:+37368576222"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "90   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "119 000 €",
-      "USD": "≈ 126 569 $",
-      "Lei": "≈ 2 301 211 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Ion Creanga12/4",
-    "Contacte": "tel:+37378899997"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "Nu",
-      "Suprafață totală": "75   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "1",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "94 900 €",
-      "USD": "≈ 100 936 $",
-      "Lei": "≈ 1 835 167 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  Strada Constantin Vârnav------",
-    "Contacte": "tel:+37379223232"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "40   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "5",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Supraveghere video": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "43 500 €",
-      "USD": "≈ 46 267 $",
-      "Lei": "≈ 841 199 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Gheorghe Madan34",
-    "Contacte": "tel:+37360787484"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "52   m²",
-      "Nivelul": "6",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "49 400 €",
-      "USD": "≈ 52 542 $",
-      "Lei": "≈ 955 293 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Jubiliară39/1",
-    "Contacte": "tel:+37367333444"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "63   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "1",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "2",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Suprafață locativă": "60   m²",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar",
-      "Planul": "Individuală",
-      "Suprafața bucătăriei": "10   m²",
-      "Înălțimea tavanului": "2 700   cm"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "46 000 €",
-      "USD": "≈ 48 926 $",
-      "Lei": "≈ 889 544 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Cricova,  Centru,  str. 31 August 19895",
-    "Contacte": "tel:+37360589988"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "71   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "7",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Ușă blindată": null,
-      "Sistem \"casă inteligentă\"": null,
-      "Interfon": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "61 770 €",
-      "USD": "≈ 65 699 $",
-      "Lei": "≈ 1 194 503 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Calea Moșilor-",
-    "Contacte": "tel:+37378870777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "97   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "8",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "99 900 €",
-      "USD": "≈ 106 254 $",
-      "Lei": "≈ 1 931 857 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Ghidighici,  Centru,  str. Sfatul Ţării.",
-    "Contacte": "tel:+37360222619"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "74   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "7",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Cablu TV": null,
-      "Supraveghere video": null,
-      "Ascensor": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "85 900 €",
-      "USD": "≈ 91 364 $",
-      "Lei": "≈ 1 661 126 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Ioana Radu29",
-    "Contacte": "tel:+37362055507"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "30   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "1",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "2",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "34 600 €",
-      "USD": "≈ 36 801 $",
-      "Lei": "≈ 669 092 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Doina75",
-    "Contacte": "tel:+37368083230"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "33   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Tipul clădirii": "Cotileț",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Cablu TV": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "26 100 €",
-      "USD": "≈ 27 761 $",
-      "Lei": "≈ 504 720 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  str. Sfânta Vineri",
-    "Contacte": "tel:+37368999900"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "43   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Tipul clădirii": "Combinat",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "14",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Dezvoltator": "Lagmar Impex",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală",
-      "Suprafața bucătăriei": "12   m²"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Geamuri panoramice": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "38 128 €",
-      "USD": "≈ 40 554 $",
-      "Lei": "≈ 737 316 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Calea Moșilor4",
-    "Contacte": "tel:+37378333877"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "79   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "9",
-      "Tipul clădirii": "Cărămidă",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală"
-    },
-    "Adăugător": {
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "99 900 €",
-      "USD": "≈ 106 254 $",
-      "Lei": "≈ 1 931 857 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Valea Trandafirilor 6/1-",
-    "Contacte": "tel:+37368888433"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "86   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Număr de nivele": "4",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "68 000 €",
-      "USD": "≈ 72 326 $",
-      "Lei": "≈ 1 314 978 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Calea Orheiului-",
-    "Contacte": "tel:+37378371777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "75   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "8",
-      "Tipul clădirii": "Beton",
-      "Loc de parcat": "Garaj",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Suprafață locativă": "75   m²",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Dezvoltator": "Boiar House",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală",
-      "Suprafața bucătăriei": "12   m²",
-      "Înălțimea tavanului": "260   cm"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "59 000 €",
-      "USD": "≈ 62 753 $",
-      "Lei": "≈ 1 140 937 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  Dimo24/A",
-    "Contacte": "tel:+37378775558"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "65   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "6",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "7",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "129 900 €",
-      "USD": "≈ 138 163 $",
-      "Lei": "≈ 2 511 994 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Mitropolitul Petru Movilă-",
-    "Contacte": "tel:+37362055508"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "3",
-      "Suprafață totală": "130   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
-      "Număr de nivele": "3",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "235 000 €",
-      "USD": "≈ 249 947 $",
-      "Lei": "≈ 4 544 407 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Vasile Coroban, Buiucani, Chișinău-",
-    "Contacte": "tel:+37378371777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "75   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "2",
-      "Nivelul": "5",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar",
-      "Planul": "102",
-      "Suprafața bucătăriei": "9   m²"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "55 900 €",
-      "USD": "≈ 59 456 $",
-      "Lei": "≈ 1 080 989 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Academician Andrei Saharov10",
-    "Contacte": "tel:+37379283283"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "80   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "16",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "17",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "104 900 €",
-      "USD": "≈ 111 572 $",
-      "Lei": "≈ 2 028 546 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Tudor Strișcă17",
-    "Contacte": "tel:+37379837888"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "70   m²",
       "Starea apartamentului": "Reparație cosmetică",
       "Bloc sanitar": "2",
       "Nivelul": "9",
       "Loc de parcat": "Deschis",
-      "Număr de nivele": "16",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "71 000 €",
-      "USD": "≈ 75 516 $",
-      "Lei": "≈ 1 372 991 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  str. Miorița.",
-    "Contacte": "tel:+37368666031"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "70   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "1",
-      "Nivelul": "4",
-      "Tipul clădirii": "Panouri",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar",
-      "Planul": "Ms (serie  moldovenească)"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "69 500 €",
-      "USD": "≈ 73 921 $",
-      "Lei": "≈ 1 343 985 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  bd. Cuza Vodă39/2",
-    "Contacte": "tel:+37378333877"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "57   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "1",
-      "Tipul clădirii": "Monolit",
-      "Loc de parcat": "Garaj",
-      "Număr de nivele": "7",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "35 900 €",
-      "USD": "≈ 38 184 $",
-      "Lei": "≈ 694 231 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Cricova,  Centru,  str. Calea Basarabiei2A",
-    "Contacte": "tel:+37378600107"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "32   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "4",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar"
-    },
-    "Condiții de utilizare": {
-      "Copii": "Copii",
-      "Animale": "Animale"
-    },
-    "Adăugător": {
-      "Aparat de aer condiționat": null,
-      "Internet": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Lei": "600 lei",
-      "Euro": "≈ 32 €",
-      "USD": "≈ 34 $"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Nicolae Dimo17/2",
-    "Contacte": "tel:+37378424261"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "52   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "6",
-      "Loc de parcat": "Deschis",
       "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Sistem de alarmă": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "37 960 €",
-      "USD": "≈ 40 375 $",
-      "Lei": "≈ 734 067 lei"
-    },
-    "Regiunea": "Moldova,  Ialoveni,  Ialoveni,  Centru,  str. Timișoara.",
-    "Contacte": "tel:+37368444629"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "49   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "1",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar",
-      "Planul": "Brj (Brejnevka)"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "49 900 €",
-      "USD": "≈ 53 074 $",
-      "Lei": "≈ 964 962 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  Sarmizegetusa 6-",
-    "Contacte": "tel:+37368888507"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "70   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Tipul clădirii": "Combinat",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Dezvoltator": "Carpeni",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Geamuri panoramice": null,
-      "Ușă blindată": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "66 500 €",
-      "USD": "≈ 70 730 $",
-      "Lei": "≈ 1 285 971 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  Burebista-",
-    "Contacte": "tel:+37368888507"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "194   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "3",
-      "Nivelul": "4",
-      "Număr de nivele": "4",
       "Numărul de camere": "Apartament cu 4 camere",
       "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
+      "Fond locativ": "Secundar"
     },
     "Adăugător": {
       "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "47 900 €",
+      "USD": "≈ 50 751 $",
+      "Lei": "≈ 922 023 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Nicolae Milescu Spătarul17",
+    "Contacte": "tel:+37379478768"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "76   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "11",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "11",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
       "Mobilat": null,
       "Tehnică de uz casnic": null,
       "Încălzire autonomă": null,
       "Aparat de aer condiționat": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
       "Ușă blindată": null,
       "Linie telefonică": null,
       "Interfon": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "232 000 €",
-      "USD": "≈ 246 756 $",
-      "Lei": "≈ 4 486 393 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Columna-",
-    "Contacte": "tel:+37378076777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "55   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "8",
-      "Număr de nivele": "16",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Geamuri panoramice": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "78 000 €",
-      "USD": "≈ 82 962 $",
-      "Lei": "≈ 1 508 357 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Studenţilor-",
-    "Contacte": "tel:+37376087770"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "67   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Număr de nivele": "7",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "59 630 €",
-      "USD": "≈ 63 423 $",
-      "Lei": "≈ 1 153 119 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Durlești, Buiucani, Chișinău-",
-    "Contacte": "tel:+37378229777"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "65   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "9",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "12",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Geamuri panoramice": null,
-      "Ușă blindată": null,
-      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
       "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
       "Euro": "77 500 €",
-      "USD": "≈ 82 430 $",
-      "Lei": "≈ 1 498 688 lei"
+      "USD": "≈ 82 112 $",
+      "Lei": "≈ 1 491 790 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Sculeni,  str. Calea Ieșilor",
-    "Contacte": "tel:+37368881103"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "43   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "5",
-      "Tipul clădirii": "Combinat",
-      "Loc de parcat": "Garaj",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi",
-      "Planul": "Individuală"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "33 000 €",
-      "USD": "≈ 35 099 $",
-      "Lei": "≈ 638 151 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Cartuşa95",
-    "Contacte": "tel:+37378333877"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "70   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "4",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "149 900 €",
-      "USD": "≈ 159 435 $",
-      "Lei": "≈ 2 898 752 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Pietrăriei-",
-    "Contacte": "tel:+37376054777"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "21   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Tipul clădirii": "Cotileț",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Geamuri termopan": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "18 200 €",
-      "USD": "≈ 19 358 $",
-      "Lei": "≈ 351 950 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  bariera sculeni-",
-    "Contacte": "tel:+37360422228"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "76   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "57 760 €",
-      "USD": "≈ 61 434 $",
-      "Lei": "≈ 1 116 958 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Ialoveni-",
-    "Contacte": "tel:+37362055508"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Grenoble.",
+    "Contacte": "tel:+37379009364"
   },
   {
     "Caracteristici": {
       "Balcon": "2",
-      "Suprafață totală": "65   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
-      "Tipul clădirii": "Cărămidă",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi",
-      "Înălțimea tavanului": "275   cm"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "58 500 €",
-      "USD": "≈ 62 221 $",
-      "Lei": "≈ 1 131 268 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Nicolae Sulac14",
-    "Contacte": "tel:+37360875559"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "75   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "1",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "8",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "82 900 €",
-      "USD": "≈ 88 173 $",
-      "Lei": "≈ 1 603 112 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Pavel Boțu9",
-    "Contacte": "tel:+37378831888"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "54   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "8",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "68 900 €",
-      "USD": "≈ 73 283 $",
-      "Lei": "≈ 1 332 382 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Albișoara84/2",
-    "Contacte": "tel:+37362055508"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "104   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "7",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "195 000 €",
-      "USD": "≈ 207 403 $",
-      "Lei": "≈ 3 770 891 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Academician Natalia Gheorghiu11",
-    "Contacte": "tel:+37379837888"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
       "Suprafață totală": "72   m²",
-      "Starea apartamentului": "Reparație cosmetică",
+      "Starea apartamentului": "Euroreparație",
       "Bloc sanitar": "2",
-      "Nivelul": "9",
-      "Număr de nivele": "10",
+      "Nivelul": "7",
+      "Număr de nivele": "11",
       "Numărul de camere": "Apartament cu 3 camere",
       "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "59 500 €",
-      "USD": "≈ 63 285 $",
-      "Lei": "≈ 1 150 606 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  bd. Mircea cel Bătrân-",
-    "Contacte": "tel:+37379441777"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "41   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "1",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "11",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
       "Fond locativ": "Construcţii noi"
     },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Teren de joacă": null
-    },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "33 075 €",
-      "USD": "≈ 35 179 $",
-      "Lei": "≈ 639 602 lei"
+      "Euro": "88 000 €",
+      "USD": "≈ 93 237 $",
+      "Lei": "≈ 1 693 904 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Cartuşa-",
-    "Contacte": "tel:+37362055508"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  Bulevardul Mircea cel Bătrîn--",
+    "Contacte": "tel:+37378899997"
   },
   {
     "Caracteristici": {
-      "Suprafață totală": "44   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "5",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "15",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "51 500 €",
-      "USD": "≈ 54 776 $",
-      "Lei": "≈ 995 902 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  bd. Renașterii Naționale20",
-    "Contacte": "tel:+37379837888"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "130   m²",
+      "Suprafață totală": "63   m²",
       "Starea apartamentului": "La alb",
       "Bloc sanitar": "2",
       "Nivelul": "4",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 4 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "195 000 €",
-      "USD": "≈ 207 403 $",
-      "Lei": "≈ 3 770 891 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Constantin Stere-",
-    "Contacte": "tel:+37376724777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "106   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "5",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "95 400 €",
-      "USD": "≈ 101 468 $",
-      "Lei": "≈ 1 844 836 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Primar Gherman Pântea71",
-    "Contacte": "tel:+37379837888"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "48   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
       "Tipul clădirii": "Cărămidă",
       "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi",
-      "Înălțimea tavanului": "275   cm"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
-      "Interfon": null,
-      "Internet": null,
-      "Cablu TV": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "43 200 €",
-      "USD": "≈ 45 948 $",
-      "Lei": "≈ 835 398 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Nicolae Sulac14",
-    "Contacte": "tel:+37360875559"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "54   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "9",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "15",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ascensor": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "61 850 €",
-      "USD": "≈ 65 784 $",
-      "Lei": "≈ 1 196 050 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  bd. Renașterii Naționale20",
-    "Contacte": "tel:+37379837888"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "65   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "5",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "48 700 €",
-      "USD": "≈ 51 798 $",
-      "Lei": "≈ 941 756 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  bd. Dacia-",
-    "Contacte": "tel:+37378371777"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "70   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "7",
-      "Număr de nivele": "10",
+      "Număr de nivele": "6",
       "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "94 500 €",
-      "USD": "≈ 100 511 $",
-      "Lei": "≈ 1 827 432 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  bd. Mircea cel Bătrân-",
-    "Contacte": "tel:+37376057778"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "52   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "8",
-      "Număr de nivele": "16",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Încălzire prin pardoseală": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "65 900 €",
-      "USD": "≈ 70 092 $",
-      "Lei": "≈ 1 274 368 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Grădina Botanică-",
-    "Contacte": "tel:+37378076777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "82   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
-      "Tipul clădirii": "Combinat",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "14",
-      "Numărul de camere": "Apartament cu 3 camere",
       "Autorul anunțului": "Dezvoltator imobiliar",
-      "Dezvoltator": "Lagmar Impex",
+      "Dezvoltator": "Exfactor-grup",
       "Fond locativ": "Construcţii noi",
       "Planul": "Individuală",
-      "Suprafața bucătăriei": "13   m²"
+      "Înălțimea tavanului": "310   cm"
     },
     "Adăugător": {
       "Încălzire autonomă": null,
       "Geamuri termopan": null,
       "Geamuri panoramice": null,
       "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
       "Interfon": null,
       "Internet": null,
       "Cablu TV": null,
       "Sistem de alarmă": null,
-      "Supraveghere video": null,
       "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "71 183 €",
-      "USD": "≈ 75 711 $",
-      "Lei": "≈ 1 376 530 lei"
+      "Euro": "50 400 €",
+      "USD": "≈ 53 399 $",
+      "Lei": "≈ 970 145 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Calea Moșilor4",
-    "Contacte": "tel:+37378333877"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "118   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "149 900 €",
-      "USD": "≈ 159 435 $",
-      "Lei": "≈ 2 898 752 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Bogdan Voievod1",
-    "Contacte": "tel:+37362055508"
+    "Regiunea": "Moldova,  Chișinău mun.,  Codru,  Centru,  str. Schinoasa-Vale11",
+    "Contacte": "tel:+37379900999"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "72   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "2",
-      "Nivelul": "4",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Sistem de alarmă": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "87 000 €",
-      "USD": "≈ 92 534 $",
-      "Lei": "≈ 1 682 398 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Alecu Russo-",
-    "Contacte": "tel:+37379441777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "44   m²",
+      "Suprafață totală": "45   m²",
       "Starea apartamentului": "La alb",
       "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
-      "Interfon": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "37 300 €",
-      "USD": "≈ 39 673 $",
-      "Lei": "≈ 721 304 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Ceucari, Poșta Veche, Chișinău-",
-    "Contacte": "tel:+37376087770"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "3",
-      "Suprafață totală": "179   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "3",
-      "Nivelul": "9",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 4 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "162 200 €",
-      "USD": "≈ 172 517 $",
-      "Lei": "≈ 3 136 608 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Grenoble128/1",
-    "Contacte": "tel:+37378831888"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "78   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "2",
-      "Nivelul": "3",
-      "Loc de parcat": "Garaj",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "109 900 €",
-      "USD": "≈ 116 890 $",
-      "Lei": "≈ 2 125 236 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Cornului13/2",
-    "Contacte": "tel:+37378831888"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "95   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "11",
-      "Număr de nivele": "11",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "94 900 €",
-      "USD": "≈ 100 936 $",
-      "Lei": "≈ 1 835 167 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  șos. Hâncești-",
-    "Contacte": "tel:+37376057779"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "67   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Linie telefonică": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "86 900 €",
-      "USD": "≈ 92 428 $",
-      "Lei": "≈ 1 680 464 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Lipcani1",
-    "Contacte": "tel:+37376097771"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "48   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "1",
-      "Nivelul": "1",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "48 900 €",
-      "USD": "≈ 52 011 $",
-      "Lei": "≈ 945 624 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Pandurilor-",
-    "Contacte": "tel:+37376017773"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "79   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "5",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "86 900 €",
-      "USD": "≈ 92 428 $",
-      "Lei": "≈ 1 680 464 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  bd. Renașterii Naționale-",
-    "Contacte": "tel:+37376777407"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "85   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
       "Nivelul": "3",
       "Tipul clădirii": "Cărămidă",
       "Loc de parcat": "Subterană",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 1 cameră",
       "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
       "Fond locativ": "Construcţii noi",
-      "Înălțimea tavanului": "275   cm"
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "310   cm"
     },
     "Adăugător": {
       "Încălzire autonomă": null,
       "Geamuri termopan": null,
+      "Geamuri panoramice": null,
       "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Sistem \"casă inteligentă\"": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "36 000 €",
+      "USD": "≈ 38 143 $",
+      "Lei": "≈ 692 961 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Miorița11",
+    "Contacte": "tel:+37379900999"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "69   m²",
+      "Starea apartamentului": "Design individual",
+      "Bloc sanitar": "1",
+      "Nivelul": "12",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "15",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
       "Interfon": null,
       "Internet": null,
       "Cablu TV": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "76 500 €",
-      "USD": "≈ 81 366 $",
-      "Lei": "≈ 1 479 350 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Nicolae Sulac14",
-    "Contacte": "tel:+37360875559"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "76   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "2",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
-      "Sistem de alarmă": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "103 000 €",
-      "USD": "≈ 109 552 $",
-      "Lei": "≈ 1 991 804 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Nicolae Costin-",
-    "Contacte": "tel:+37378229777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "74   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "16",
-      "Număr de nivele": "16",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "67 900 €",
-      "USD": "≈ 72 219 $",
-      "Lei": "≈ 1 313 044 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str-la Studenților-",
-    "Contacte": "tel:+37376037771"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "86   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "2",
-      "Nivelul": "8",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "103 200 €",
-      "USD": "≈ 109 764 $",
-      "Lei": "≈ 1 995 672 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str-la Lipcani1",
-    "Contacte": "tel:+37362055507"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "34   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Număr de nivele": "8",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Linie telefonică": null,
-      "Interfon": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "35 500 €",
-      "USD": "≈ 37 758 $",
-      "Lei": "≈ 686 496 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Calea Ieșilor-",
-    "Contacte": "tel:+37378229777"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "30   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "32 900 €",
-      "USD": "≈ 34 993 $",
-      "Lei": "≈ 636 217 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Suceava-",
-    "Contacte": "tel:+37378229777"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "65   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Geamuri termopan": null,
-      "Ușă blindată": null,
-      "Interfon": null,
       "Supraveghere video": null,
       "Ascensor": null,
       "Teren de joacă": null
@@ -2445,193 +223,190 @@
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
       "Euro": "110 000 €",
-      "USD": "≈ 116 997 $",
-      "Lei": "≈ 2 127 169 lei"
+      "USD": "≈ 116 546 $",
+      "Lei": "≈ 2 117 379 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Ion Luca Caragiale-",
-    "Contacte": "tel:+37378371777"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "45   m²",
-      "Nivelul": "2",
-      "Număr de nivele": "4",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar",
-      "Planul": "Hruşciovka"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "46 500 €",
-      "USD": "≈ 49 458 $",
-      "Lei": "≈ 899 213 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  Zelinski4",
-    "Contacte": "tel:+37378086650"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Burebista114/2",
+    "Contacte": "tel:+37379789888"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "48   m²",
+      "Suprafață totală": "78   m²",
       "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "9",
-      "Tipul clădirii": "Cotileț",
+      "Bloc sanitar": "2",
+      "Nivelul": "6",
       "Loc de parcat": "Deschis",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Dezvoltator": "Lagmar Impex",
+      "Număr de nivele": "6",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
       "Fond locativ": "Construcţii noi"
     },
     "Adăugător": {
-      "Gata de intrare": null,
       "Mobilat": null,
       "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
       "Geamuri termopan": null,
-      "Geamuri panoramice": null,
       "Parchet": null,
       "Ușă blindată": null,
       "Linie telefonică": null,
       "Interfon": null,
       "Internet": null,
       "Cablu TV": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "71 900 €",
-      "USD": "≈ 76 474 $",
-      "Lei": "≈ 1 390 396 lei"
+      "Euro": "68 000 €",
+      "USD": "≈ 72 047 $",
+      "Lei": "≈ 1 308 926 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Bariera Orhei5/1",
-    "Contacte": "tel:+37369989813"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "70   m²",
-      "Starea apartamentului": "La alb",
-      "Nivelul": "7",
-      "Număr de nivele": "16",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Dezvoltator imobiliar",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "72 500 €",
-      "USD": "≈ 77 112 $",
-      "Lei": "≈ 1 401 998 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Burebista114",
-    "Contacte": "tel:+37379435846"
+    "Regiunea": "Moldova,  Ialoveni,  Ialoveni,  Centru,  str. Alexandru cel Bun.",
+    "Contacte": "tel:+37368666091"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "50   m²",
-      "Starea apartamentului": "Reparație cosmetică",
+      "Suprafață totală": "52   m²",
       "Bloc sanitar": "1",
-      "Nivelul": "5",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "27 000 €",
-      "USD": "≈ 28 718 $",
-      "Lei": "≈ 522 124 lei"
-    },
-    "Regiunea": "Moldova,  Bălți mun.,  Bălți,  8 cartier,  Каля Ешилор112",
-    "Contacte": "tel:+37379927973"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "2",
-      "Suprafață totală": "66   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Loc de parcat": "Subterană",
-      "Număr de nivele": "16",
+      "Nivelul": "8",
+      "Număr de nivele": "11",
       "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Dezvoltator": "Eldorado Terra",
+      "Autorul anunțului": "Dezvoltator imobiliar",
       "Fond locativ": "Construcţii noi"
     },
     "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Cablu TV": null,
-      "Supraveghere video": null,
-      "Ascensor": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "102 700 €",
-      "USD": "≈ 109 233 $",
-      "Lei": "≈ 1 986 003 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Bogdan Voievod1",
-    "Contacte": "tel:+37369416666"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "3",
-      "Suprafață totală": "68   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "6",
-      "Număr de nivele": "15",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Suprafață locativă": "68   m²",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Încălzire autonomă": null,
-      "Aparat de aer condiționat": null,
-      "Încălzire prin pardoseală": null,
       "Geamuri termopan": null,
       "Geamuri panoramice": null,
-      "Ușă blindată": null,
-      "Supraveghere video": null,
       "Ascensor": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "84 900 €",
-      "USD": "≈ 90 300 $",
-      "Lei": "≈ 1 641 788 lei"
+      "Euro": "94 500 €",
+      "USD": "≈ 100 123 $",
+      "Lei": "≈ 1 819 022 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  Stradela Studenților17",
-    "Contacte": "tel:+37368178073"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Mihai Eminescu61",
+    "Contacte": "tel:+37369927871"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "85   m²",
+      "Suprafață totală": "53   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "3",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "310   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "42 400 €",
+      "USD": "≈ 44 923 $",
+      "Lei": "≈ 816 154 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Miorița5/6",
+    "Contacte": "tel:+37379900999"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "56   m²",
       "Starea apartamentului": "Euroreparație",
       "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Număr de nivele": "11",
-      "Numărul de camere": "Apartament cu 3 camere",
+      "Nivelul": "1",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "15",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "70 000 €",
+      "USD": "≈ 74 166 $",
+      "Lei": "≈ 1 347 423 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  str. Pietrarilor.",
+    "Contacte": "tel:+37368666875"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "3",
+      "Suprafață totală": "83   m²",
+      "Starea apartamentului": "Design individual",
+      "Bloc sanitar": "1",
+      "Nivelul": "5",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 4 camere",
+      "Suprafață locativă": "70   m²",
+      "Autorul anunțului": "Persoană fizică",
+      "Fond locativ": "Secundar",
+      "Suprafața bucătăriei": "12   m²",
+      "Înălțimea tavanului": "280   cm"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Aparat de aer condiționat": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "60 000 €",
+      "USD": "≈ 63 571 $",
+      "Lei": "≈ 1 154 934 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Igor Vieru1",
+    "Contacte": "tel:+37379530636"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "51   m²",
+      "Starea apartamentului": "Design individual",
+      "Bloc sanitar": "1",
+      "Nivelul": "9",
+      "Tipul clădirii": "Cotileț",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 1 cameră",
       "Autorul anunțului": "Agenție",
       "Fond locativ": "Construcţii noi"
     },
@@ -2642,9 +417,14 @@
       "Încălzire autonomă": null,
       "Aparat de aer condiționat": null,
       "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
       "Ușă blindată": null,
       "Linie telefonică": null,
+      "Sistem \"casă inteligentă\"": null,
       "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
       "Sistem de alarmă": null,
       "Supraveghere video": null,
       "Ascensor": null,
@@ -2652,75 +432,84 @@
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "105 000 €",
-      "USD": "≈ 111 679 $",
-      "Lei": "≈ 2 030 480 lei"
+      "Euro": "120 000 €",
+      "USD": "≈ 127 141 $",
+      "Lei": "≈ 2 309 868 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Nicolae Testemițanu, Centru, Chișinău-",
-    "Contacte": "tel:+37376054777"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Trandafirilor13/2",
+    "Contacte": "tel:+37378618922"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "86   m²",
-      "Starea apartamentului": "Euroreparație",
+      "Suprafață totală": "80   m²",
+      "Starea apartamentului": "La alb",
       "Bloc sanitar": "2",
-      "Nivelul": "11",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "16",
+      "Nivelul": "5",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "15",
       "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
+      "Autorul anunțului": "Dezvoltator imobiliar",
       "Fond locativ": "Construcţii noi",
       "Planul": "Individuală"
     },
     "Adăugător": {
-      "Gata de intrare": null,
       "Încălzire autonomă": null,
       "Geamuri termopan": null,
-      "Parchet": null,
+      "Geamuri panoramice": null,
       "Ușă blindată": null,
       "Interfon": null,
       "Cablu TV": null,
-      "Sistem de alarmă": null,
       "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "99 900 €",
-      "USD": "≈ 106 254 $",
-      "Lei": "≈ 1 931 857 lei"
+      "Euro": "82 000 €",
+      "USD": "≈ 86 880 $",
+      "Lei": "≈ 1 578 410 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Matei Basarab1/3",
-    "Contacte": "tel:+37378888664"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Burebista7",
+    "Contacte": "tel:+37379789888"
   },
   {
     "Caracteristici": {
-      "Suprafață totală": "61   m²",
+      "Balcon": "1",
+      "Suprafață totală": "59   m²",
       "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
       "Nivelul": "4",
-      "Număr de nivele": "16",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "12",
       "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
+      "Autorul anunțului": "Dezvoltator imobiliar",
       "Fond locativ": "Construcţii noi",
-      "Suprafața bucătăriei": "14   m²",
-      "Înălțimea tavanului": "310   cm"
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "290   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "67 000 €",
-      "USD": "≈ 71 262 $",
-      "Lei": "≈ 1 295 640 lei"
+      "Euro": "67 620 €",
+      "USD": "≈ 71 644 $",
+      "Lei": "≈ 1 301 611 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  Gradina Botanica20/1",
-    "Contacte": "tel:+37369031204"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Cornești13",
+    "Contacte": "tel:+37379900999"
   },
   {
     "Caracteristici": {
-      "Suprafață totală": "85   m²",
-      "Starea apartamentului": "Reparație cosmetică",
-      "Nivelul": "7",
-      "Număr de nivele": "16",
+      "Suprafață totală": "76   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "4",
+      "Număr de nivele": "9",
       "Numărul de camere": "Apartament cu 3 camere",
       "Autorul anunțului": "Agenție",
       "Fond locativ": "Secundar"
@@ -2729,62 +518,105 @@
       "Gata de intrare": null,
       "Mobilat": null,
       "Tehnică de uz casnic": null,
+      "Aparat de aer condiționat": null,
       "Geamuri termopan": null,
+      "Parchet": null,
       "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
       "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
       "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "65 000 €",
-      "USD": "≈ 69 135 $",
-      "Lei": "≈ 1 256 964 lei"
+      "Euro": "79 800 €",
+      "USD": "≈ 84 549 $",
+      "Lei": "≈ 1 536 063 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Aeroport,  bd. Dacia",
-    "Contacte": "tel:+37368999900"
-  },
-  {
-    "Caracteristici": {
-      "Balcon": "1",
-      "Suprafață totală": "45   m²",
-      "Starea apartamentului": "Euroreparație",
-      "Bloc sanitar": "1",
-      "Nivelul": "3",
-      "Loc de parcat": "Deschis",
-      "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Secundar"
-    },
-    "Adăugător": {
-      "Gata de intrare": null,
-      "Mobilat": null,
-      "Tehnică de uz casnic": null,
-      "Geamuri termopan": null,
-      "Parchet": null,
-      "Ușă blindată": null,
-      "Linie telefonică": null,
-      "Cablu TV": null,
-      "Teren de joacă": null
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "48 900 €",
-      "USD": "≈ 52 011 $",
-      "Lei": "≈ 945 624 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Hristo Botev19/3",
-    "Contacte": "tel:+37367419891"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Nicolae Dimo23",
+    "Contacte": "tel:+37369680300"
   },
   {
     "Caracteristici": {
       "Balcon": "2",
-      "Suprafață totală": "92   m²",
-      "Starea apartamentului": "Euroreparație",
+      "Suprafață totală": "53   m²",
+      "Starea apartamentului": "La alb",
       "Bloc sanitar": "2",
-      "Nivelul": "2",
-      "Număr de nivele": "7",
+      "Nivelul": "3",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "310   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "42 400 €",
+      "USD": "≈ 44 923 $",
+      "Lei": "≈ 816 154 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Miorița60",
+    "Contacte": "tel:+37379900999"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "53   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "4",
+      "Număr de nivele": "15",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "56 000 €",
+      "USD": "≈ 59 333 $",
+      "Lei": "≈ 1 077 939 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Calea Orheiului-",
+    "Contacte": "tel:+37376037778"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "75   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "1",
+      "Număr de nivele": "10",
       "Numărul de camere": "Apartament cu 3 camere",
       "Autorul anunțului": "Agenție",
       "Fond locativ": "Construcţii noi"
@@ -2794,86 +626,1897 @@
       "Mobilat": null,
       "Tehnică de uz casnic": null,
       "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
       "Ușă blindată": null,
       "Linie telefonică": null,
       "Interfon": null,
-      "Sistem de alarmă": null,
       "Supraveghere video": null,
       "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "151 300 €",
-      "USD": "≈ 160 924 $",
-      "Lei": "≈ 2 925 825 lei"
+      "Euro": "94 900 €",
+      "USD": "≈ 100 547 $",
+      "Lei": "≈ 1 826 721 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Moara Roșie-",
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Constantin Vârnav, Centru, Chișinău-",
     "Contacte": "tel:+37376087772"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "54   m²",
-      "Starea apartamentului": "Reparație cosmetică",
+      "Suprafață totală": "87   m²",
+      "Starea apartamentului": "La alb",
       "Bloc sanitar": "2",
+      "Nivelul": "1",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "80 224 €",
+      "USD": "≈ 84 998 $",
+      "Lei": "≈ 1 544 224 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Iazului",
+    "Contacte": "tel:+37368881142"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "3",
+      "Suprafață totală": "100   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
       "Nivelul": "5",
+      "Tipul clădirii": "Combinat",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "7",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală"
+    },
+    "Adăugător": {
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "115 000 €",
+      "USD": "≈ 121 843 $",
+      "Lei": "≈ 2 213 624 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  stradela Tudor Vladimirescu 26-",
+    "Contacte": "tel:+37368888278"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "49   m²",
+      "Starea apartamentului": "Reparație cosmetică",
+      "Bloc sanitar": "1",
+      "Nivelul": "4",
       "Tipul clădirii": "Cotileț",
       "Număr de nivele": "5",
       "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar",
+      "Planul": "Brj (Brejnevka)"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "47 900 €",
+      "USD": "≈ 50 751 $",
+      "Lei": "≈ 922 023 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Nicolae Dimo-",
+    "Contacte": "tel:+37368188181"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "83   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "7",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "69 000 €",
+      "USD": "≈ 73 106 $",
+      "Lei": "≈ 1 328 175 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Calea Ieșilor-",
+    "Contacte": "tel:+37378229777"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "100   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "9",
+      "Tipul clădirii": "Monolit",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Boiar House",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "260   cm"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "59 000 €",
+      "USD": "≈ 62 511 $",
+      "Lei": "≈ 1 135 686 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  Dimo24/B",
+    "Contacte": "tel:+37378774498"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "67   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "6",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "11",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "57 900 €",
+      "USD": "≈ 61 346 $",
+      "Lei": "≈ 1 114 512 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Dumbrava,  Centru,  str. Durlești.",
+    "Contacte": "tel:+37368111862"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "62   m²",
+      "Starea apartamentului": "Construcție nefinisată",
+      "Bloc sanitar": "1",
+      "Nivelul": "11",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "13",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Dezvoltator": "Inamstro",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Suprafața bucătăriei": "14   m²"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "83 500 €",
+      "USD": "≈ 88 469 $",
+      "Lei": "≈ 1 607 284 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  Calea Iesilor 6-",
+    "Contacte": "tel:+37368888230"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "3",
+      "Suprafață totală": "71   m²",
+      "Starea apartamentului": "Reparație cosmetică",
+      "Bloc sanitar": "2",
+      "Nivelul": "5",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 3 camere",
       "Autorul anunțului": "Agenție",
       "Fond locativ": "Secundar"
     },
     "Adăugător": {
       "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Supraveghere video": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "66 900 €",
+      "USD": "≈ 70 881 $",
+      "Lei": "≈ 1 287 752 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  bd. Alba Iulia, Buiucani, Chișinău-",
+    "Contacte": "tel:+37376017779"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "44   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "2",
+      "Tipul clădirii": "Monolit",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "7",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Suprafață locativă": "44   m²",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Boiar House",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "28 800 €",
+      "USD": "≈ 30 514 $",
+      "Lei": "≈ 554 369 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Cricova,  Periferie,  str. Calea Basarabiei2A",
+    "Contacte": "tel:+37378600107"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "75   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "5",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
+      "Încălzire prin pardoseală": null,
       "Geamuri termopan": null,
-      "Parchet": null,
+      "Ușă blindată": null,
       "Linie telefonică": null,
       "Interfon": null,
       "Internet": null,
-      "Cablu TV": null
+      "Cablu TV": null,
+      "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "51 000 €",
-      "USD": "≈ 54 244 $",
-      "Lei": "≈ 986 233 lei"
+      "Euro": "79 900 €",
+      "USD": "≈ 84 655 $",
+      "Lei": "≈ 1 537 988 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Grădinilor23",
-    "Contacte": "tel:+37360424111"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  Ion Dumeniuc-",
+    "Contacte": "tel:+37368888279"
   },
   {
     "Caracteristici": {
-      "Suprafață totală": "57   m²",
-      "Nivelul": "4",
-      "Tipul clădirii": "Beton",
-      "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 2 camere",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Secundar",
-      "Planul": "135"
+      "Balcon": "1",
+      "Suprafață totală": "48   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "2",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "310   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "64 900 €",
-      "USD": "≈ 69 028 $",
-      "Lei": "≈ 1 255 030 lei"
+      "Euro": "38 000 €",
+      "USD": "≈ 40 262 $",
+      "Lei": "≈ 731 459 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Sculeni,  str. Calea Ieșilor59/1",
-    "Contacte": "tel:+37369046011"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  Miorița11",
+    "Contacte": "tel:+37379900999"
   },
   {
     "Caracteristici": {
-      "Balcon": "4 și mai multe",
-      "Suprafață totală": "100   m²",
-      "Starea apartamentului": "Euroreparație",
+      "Balcon": "1",
+      "Suprafață totală": "63   m²",
+      "Starea apartamentului": "La alb",
       "Bloc sanitar": "2",
-      "Nivelul": "9",
+      "Nivelul": "4",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "310   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "50 500 €",
+      "USD": "≈ 53 505 $",
+      "Lei": "≈ 972 070 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Telecentru,  str. Miorița60",
+    "Contacte": "tel:+37379900999"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "63   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "8",
+      "Număr de nivele": "14",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Suprafață locativă": "63   m²",
+      "Autorul anunțului": "Persoană fizică",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "74 340 €",
+      "USD": "≈ 78 764 $",
+      "Lei": "≈ 1 430 964 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Nicolae Testemițanu17/2",
+    "Contacte": "tel:+37368307868"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "52   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "4",
+      "Tipul clădirii": "Cărămidă",
       "Loc de parcat": "Subterană",
       "Număr de nivele": "9",
-      "Numărul de camere": "Apartament cu 3 camere",
-      "Autorul anunțului": "Persoană fizică",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
       "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "310   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "41 600 €",
+      "USD": "≈ 44 076 $",
+      "Lei": "≈ 800 755 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Miorița9/1",
+    "Contacte": "tel:+37379900999"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "96   m²",
+      "Starea apartamentului": "Design individual",
+      "Bloc sanitar": "2",
+      "Nivelul": "2",
+      "Tipul clădirii": "Cărămidă",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Exfactor-grup",
+      "Fond locativ": "Construcţii noi",
+      "Înălțimea tavanului": "310   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "76 800 €",
+      "USD": "≈ 81 370 $",
+      "Lei": "≈ 1 478 316 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Miorița60",
+    "Contacte": "tel:+37379900999"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "72   m²",
+      "Starea apartamentului": "Reparație cosmetică",
+      "Bloc sanitar": "2",
+      "Nivelul": "9",
+      "Tipul clădirii": "Cotileț",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "58 999 €",
+      "USD": "≈ 62 510 $",
+      "Lei": "≈ 1 135 666 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  bd. Mircea cel Bătrân7",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "65   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "4",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "270   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "61 750 €",
+      "USD": "≈ 65 425 $",
+      "Lei": "≈ 1 188 620 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Iazului",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "63   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "8",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Suprafața bucătăriei": "13   m²",
+      "Înălțimea tavanului": "270   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "59 850 €",
+      "USD": "≈ 63 412 $",
+      "Lei": "≈ 1 152 047 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Iazului",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "65   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "2",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "270   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "61 750 €",
+      "USD": "≈ 65 425 $",
+      "Lei": "≈ 1 188 620 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Iazului",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "126   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "5",
+      "Tipul clădirii": "Combinat",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "270   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "94 999 €",
+      "USD": "≈ 100 652 $",
+      "Lei": "≈ 1 828 627 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Atelierilor4",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "Nu",
+      "Suprafață totală": "38   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "12",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "16",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "36 900 €",
+      "USD": "≈ 39 096 $",
+      "Lei": "≈ 710 285 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  Piața Unirii Principatelor1",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "34   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "7",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "7",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "34 000 €",
+      "USD": "≈ 36 024 $",
+      "Lei": "≈ 654 463 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Sucevița36/1",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "Nu",
+      "Suprafață totală": "34   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "3",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "35 400 €",
+      "USD": "≈ 37 507 $",
+      "Lei": "≈ 681 412 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Sculeni,  str. Calea Ieșilor47/2",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "40   m²",
+      "Starea apartamentului": "Design individual",
+      "Bloc sanitar": "1",
+      "Nivelul": "9",
+      "Tipul clădirii": "Monolit",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "16",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "33 999 €",
+      "USD": "≈ 36 022 $",
+      "Lei": "≈ 654 444 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Sucevița36/1",
+    "Contacte": "tel:+37360602989"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "56   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "4",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "76 500 €",
+      "USD": "≈ 81 052 $",
+      "Lei": "≈ 1 472 541 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  Liviu Deleanu--",
+    "Contacte": "tel:+37378899997"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "48   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "7",
+      "Număr de nivele": "14",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "70 900 €",
+      "USD": "≈ 75 119 $",
+      "Lei": "≈ 1 364 748 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  bd. Mircea cel Bătrân, Ciocana, Chișinău-",
+    "Contacte": "tel:+37376057778"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "61   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "6",
+      "Tipul clădirii": "Monolit",
+      "Număr de nivele": "7",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Boiar House",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "40 000 €",
+      "USD": "≈ 42 381 $",
+      "Lei": "≈ 769 956 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Cricova,  Centru,  str. Calea Basarabiei2A",
+    "Contacte": "tel:+37378600107"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "60   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "6",
+      "Tipul clădirii": "Beton celular",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "11",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală"
+    },
+    "Adăugător": {
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
+      "Geamuri termopan": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "67 900 €",
+      "USD": "≈ 71 941 $",
+      "Lei": "≈ 1 307 001 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  Cartusa 93-",
+    "Contacte": "tel:+37368888533"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "26   m²",
+      "Starea apartamentului": "Reparație cosmetică",
+      "Bloc sanitar": "2",
+      "Nivelul": "8",
+      "Tipul clădirii": "Panouri",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar",
+      "Planul": "Cămin familial"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "17 900 €",
+      "USD": "≈ 18 966 $",
+      "Lei": "≈ 344 556 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Burebista-",
+    "Contacte": "tel:+37360544442"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "49   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "5",
+      "Tipul clădirii": "Cotileț",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar",
+      "Planul": "102"
+    },
+    "Adăugător": {
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "54 900 €",
+      "USD": "≈ 58 167 $",
+      "Lei": "≈ 1 056 765 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Gheorghe Madan-",
+    "Contacte": "tel:+37360644445"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "180   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "4 și mai multe",
+      "Nivelul": "9",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 4 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "135 000 €",
+      "USD": "≈ 143 033 $",
+      "Lei": "≈ 2 598 602 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Liviu Deleanu-",
+    "Contacte": "tel:+37376017779"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "3",
+      "Suprafață totală": "183   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "9",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Decomandat": null,
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Sistem de alarmă": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "275 000 €",
+      "USD": "≈ 291 363 $",
+      "Lei": "≈ 5 293 448 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Ion Creangă12/4",
+    "Contacte": "tel:+37360022930"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "77   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "6",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Decomandat": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "109 000 €",
+      "USD": "≈ 115 486 $",
+      "Lei": "≈ 2 098 131 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Prigoreni10",
+    "Contacte": "tel:+37360999612"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "68   m²",
+      "Starea apartamentului": "Construcție nefinisată",
+      "Nivelul": "14",
+      "Număr de nivele": "14",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Persoană fizică",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "80 000 €",
+      "USD": "≈ 84 761 $",
+      "Lei": "≈ 1 539 912 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  Bd Renasterii Nationale35",
+    "Contacte": "tel:+37369888071"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "64   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Nivelul": "8",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "83 700 €",
+      "USD": "≈ 88 681 $",
+      "Lei": "≈ 1 611 133 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  bd. Alba-Iulia75/22B",
+    "Contacte": "tel:+37369603998"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "63   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "5",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "47 250 €",
+      "USD": "≈ 50 062 $",
+      "Lei": "≈ 909 511 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Cartuşa",
+    "Contacte": "tel:+37376000420"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "50   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "2",
+      "Tipul clădirii": "Cotileț",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "42 500 €",
+      "USD": "≈ 45 029 $",
+      "Lei": "≈ 818 079 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  Cartusa99/7",
+    "Contacte": "tel:+37379855899"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "70   m²",
+      "Starea apartamentului": "Are nevoie de reparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "3",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Tehnică de uz casnic": null,
+      "Ușă blindată": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "55 000 €",
+      "USD": "≈ 58 273 $",
+      "Lei": "≈ 1 058 690 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Pajurii",
+    "Contacte": "tel:+37368022206"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "74   m²",
+      "Nivelul": "4",
+      "Număr de nivele": "14",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "250 000 €",
+      "USD": "≈ 264 876 $",
+      "Lei": "≈ 4 812 225 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  Ștefan cel Mare171/3",
+    "Contacte": "tel:+37360102099"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "52   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Nivelul": "9",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "120 000 €",
+      "USD": "≈ 127 141 $",
+      "Lei": "≈ 2 309 868 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  Trandafirilor13/2",
+    "Contacte": "tel:+37360102099"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "62   m²",
+      "Nivelul": "2",
+      "Număr de nivele": "14",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "200 000 €",
+      "USD": "≈ 211 901 $",
+      "Lei": "≈ 3 849 780 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  Ștefan cel Mare171/3",
+    "Contacte": "tel:+37360102099"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "52   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "14",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "17",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "75 000 €",
+      "USD": "≈ 79 463 $",
+      "Lei": "≈ 1 443 668 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Tudor Strișcă.",
+    "Contacte": "tel:+37360222865"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "3",
+      "Suprafață totală": "115   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "8",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "12",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Decomandat": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Sistem de alarmă": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "86 430 €",
+      "USD": "≈ 91 573 $",
+      "Lei": "≈ 1 663 683 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Poșta Veche,  str. Ceucari14",
+    "Contacte": "tel:+37368444466"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "96   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Nivelul": "1",
+      "Tipul clădirii": "Cotileț",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "119 500 €",
+      "USD": "≈ 126 611 $",
+      "Lei": "≈ 2 300 244 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Dumitru Rîșcanu18/1",
+    "Contacte": "tel:+37368444707"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "85   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "14",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "17",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "115 900 €",
+      "USD": "≈ 122 797 $",
+      "Lei": "≈ 2 230 948 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Tudor Strișcă19/2",
+    "Contacte": "tel:+37368444286"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "40   m²",
+      "Starea apartamentului": "Fără reparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "2",
+      "Tipul clădirii": "Cotileț",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Suprafață locativă": "41   m²",
+      "Autorul anunțului": "Persoană fizică",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "31 500 €",
+      "USD": "≈ 33 375 $",
+      "Lei": "≈ 606 341 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Pajurii13",
+    "Contacte": "tel:+37368025552"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "76   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "4",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Aparat de aer condiționat": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "79 600 €",
+      "USD": "≈ 84 337 $",
+      "Lei": "≈ 1 532 213 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Nicolae Dimo23",
+    "Contacte": "tel:+37369680300"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "94   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "2",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "60 000 €",
+      "USD": "≈ 63 571 $",
+      "Lei": "≈ 1 154 934 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Vadul lui Vodă,  Centru,  str. Balneară.",
+    "Contacte": "tel:+37368111739"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "100   m²",
+      "Starea apartamentului": "La alb",
+      "Nivelul": "9",
+      "Tipul clădirii": "Monolit",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Boiar House",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală",
+      "Înălțimea tavanului": "260   cm"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "65 500 €",
+      "USD": "≈ 69 398 $",
+      "Lei": "≈ 1 260 803 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  Dimo24/B",
+    "Contacte": "tel:+37378774498"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "110   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "5",
+      "Tipul clădirii": "Beton celular",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Supraveghere video": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "62 905 €",
+      "USD": "≈ 66 648 $",
+      "Lei": "≈ 1 210 853 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Atelierilor6",
+    "Contacte": "tel:+37378883955"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "81   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "6",
+      "Tipul clădirii": "Monolit",
+      "Loc de parcat": "Garaj",
+      "Număr de nivele": "7",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Dezvoltator": "Boiar House",
+      "Fond locativ": "Construcţii noi",
+      "Înălțimea tavanului": "270   cm"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "47 500 €",
+      "USD": "≈ 50 327 $",
+      "Lei": "≈ 914 323 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Cricova,  Centru,  str. Calea Basarabiei2A",
+    "Contacte": "tel:+37378600107"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "58   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "1",
+      "Nivelul": "13",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "22",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "60 000 €",
+      "USD": "≈ 63 571 $",
+      "Lei": "≈ 1 154 934 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  bd. Mircea cel Bătrân.",
+    "Contacte": "tel:+37368111750"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "47   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "3",
+      "Tipul clădirii": "Cărămidă",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 1 cameră",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi",
+      "Înălțimea tavanului": "275   cm"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Sistem \"casă inteligentă\"": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "43 240 €",
+      "USD": "≈ 45 813 $",
+      "Lei": "≈ 832 323 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Ciocana,  str. Nicolae Sulac14",
+    "Contacte": "tel:+37360875559"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "72   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "16",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "17",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Interfon": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "162 000 €",
+      "USD": "≈ 171 640 $",
+      "Lei": "≈ 3 118 322 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Bogdan Voievod1",
+    "Contacte": "tel:+37378888765"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "2",
+      "Suprafață totală": "93   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "3",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "120 000 €",
+      "USD": "≈ 127 141 $",
+      "Lei": "≈ 2 309 868 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Anestiade3",
+    "Contacte": "tel:+37378888977"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "85   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "2",
+      "Nivelul": "14",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "16",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "75 900 €",
+      "USD": "≈ 80 417 $",
+      "Lei": "≈ 1 460 992 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  str. Matei Basarab-",
+    "Contacte": "tel:+37378888664"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "Nu",
+      "Suprafață totală": "125   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "2",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "8",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Parchet": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "165 500 €",
+      "USD": "≈ 175 348 $",
+      "Lei": "≈ 3 185 693 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  bd. Renașterii Naționale.",
+    "Contacte": "tel:+37368111750"
+  },
+  {
+    "Caracteristici": {
+      "Suprafață totală": "78   m²",
+      "Nivelul": "2",
+      "Tipul clădirii": "Cărămidă",
+      "Număr de nivele": "11",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală"
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "117 200 €",
+      "USD": "≈ 124 174 $",
+      "Lei": "≈ 2 255 972 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Constantin Stere20",
+    "Contacte": "tel:+37379077755"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "183   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "3",
+      "Nivelul": "9",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 4 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi",
+      "Planul": "Individuală"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Ușă blindată": null,
+      "Interfon": null,
+      "Supraveghere video": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "275 000 €",
+      "USD": "≈ 291 363 $",
+      "Lei": "≈ 5 293 448 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Buiucani,  str. Calea Ieșilor-",
+    "Contacte": "tel:+37378888205"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "82   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "2",
+      "Nivelul": "1",
+      "Tipul clădirii": "Panouri",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "9",
+      "Numărul de camere": "Apartament cu 3 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Secundar",
       "Planul": "Individuală"
     },
     "Adăugător": {
@@ -2884,97 +2527,162 @@
       "Aparat de aer condiționat": null,
       "Geamuri termopan": null,
       "Parchet": null,
+      "Linie telefonică": null,
+      "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
+      "Ascensor": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "102 000 €",
+      "USD": "≈ 108 070 $",
+      "Lei": "≈ 1 963 388 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Râșcani,  Andrei Doga-",
+    "Contacte": "tel:+37368228882"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "146   m²",
+      "Starea apartamentului": "La alb",
+      "Bloc sanitar": "3",
+      "Nivelul": "9",
+      "Loc de parcat": "Subterană",
+      "Număr de nivele": "10",
+      "Numărul de camere": "Apartament cu 4 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Încălzire autonomă": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Sistem de alarmă": null,
+      "Supraveghere video": null,
+      "Ascensor": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "394 200 €",
+      "USD": "≈ 417 656 $",
+      "Lei": "≈ 7 587 917 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Tricolorului-",
+    "Contacte": "tel:+37378888714"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "65   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "1",
+      "Tipul clădirii": "Beton celular",
+      "Loc de parcat": "Deschis",
+      "Număr de nivele": "5",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Suprafață locativă": "53   m²",
+      "Autorul anunțului": "Dezvoltator imobiliar",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Anexă": null,
+      "Decomandat": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Încălzire prin pardoseală": null,
+      "Geamuri termopan": null,
+      "Geamuri panoramice": null,
+      "Parchet": null,
       "Ușă blindată": null,
       "Linie telefonică": null,
       "Interfon": null,
       "Internet": null,
       "Cablu TV": null,
       "Supraveghere video": null,
-      "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "139 900 €",
-      "USD": "≈ 148 799 $",
-      "Lei": "≈ 2 705 373 lei"
+      "Euro": "64 450 €",
+      "USD": "≈ 68 285 $",
+      "Lei": "≈ 1 240 592 lei"
     },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Gheorghe Cașu30/E",
-    "Contacte": "tel:+37378442876"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "25   m²",
-      "Nivelul": "6",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Autorul anunțului": "Agenție",
-      "Fond locativ": "Construcţii noi"
-    },
-    "Condiții de utilizare": {
-      "Copii": "Copii",
-      "Animale": "Animale"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Lei": "250 lei",
-      "Euro": "≈ 13 €",
-      "USD": "≈ 14 $"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Centru,  str. Ismail88",
-    "Contacte": "tel:+37360562494"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Atelierilor6",
+    "Contacte": "tel:+37378883955"
   },
   {
     "Caracteristici": {
       "Balcon": "1",
-      "Suprafață totală": "41   m²",
+      "Suprafață totală": "57   m²",
       "Starea apartamentului": "La alb",
       "Bloc sanitar": "1",
-      "Nivelul": "2",
-      "Număr de nivele": "10",
-      "Numărul de camere": "Apartament cu 1 cameră",
-      "Suprafață locativă": "41   m²",
-      "Autorul anunțului": "Persoană fizică",
-      "Fond locativ": "Construcţii noi",
-      "Suprafața bucătăriei": "8   m²"
-    },
-    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
-    "Preț": {
-      "Euro": "36 000 €",
-      "USD": "≈ 38 290 $",
-      "Lei": "≈ 696 165 lei"
-    },
-    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Nicolae Dimo24/1",
-    "Contacte": "tel:+37376741779"
-  },
-  {
-    "Caracteristici": {
-      "Suprafață totală": "48   m²",
-      "Starea apartamentului": "La alb",
-      "Bloc sanitar": "1",
-      "Nivelul": "1",
+      "Nivelul": "4",
+      "Tipul clădirii": "Beton celular",
       "Loc de parcat": "Deschis",
       "Număr de nivele": "5",
-      "Numărul de camere": "Apartament cu 1 cameră",
+      "Numărul de camere": "Apartament cu 2 camere",
       "Autorul anunțului": "Dezvoltator imobiliar",
       "Fond locativ": "Construcţii noi"
     },
     "Adăugător": {
+      "Gata de intrare": null,
       "Încălzire autonomă": null,
       "Geamuri termopan": null,
+      "Geamuri panoramice": null,
       "Ușă blindată": null,
+      "Linie telefonică": null,
       "Interfon": null,
+      "Internet": null,
+      "Cablu TV": null,
       "Supraveghere video": null,
-      "Ascensor": null,
       "Teren de joacă": null
     },
     "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
     "Preț": {
-      "Euro": "37 440 €",
-      "USD": "≈ 39 822 $",
-      "Lei": "≈ 724 011 lei"
+      "Euro": "45 500 €",
+      "USD": "≈ 48 208 $",
+      "Lei": "≈ 875 825 lei"
     },
-    "Regiunea": "Moldova,  Orhei,  Orhei,  Centru,  str. Constantin Negruzzi91",
-    "Contacte": "tel:+37360717178"
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Durlești,  str. Atelierilor6",
+    "Contacte": "tel:+37378883955"
+  },
+  {
+    "Caracteristici": {
+      "Balcon": "1",
+      "Suprafață totală": "62   m²",
+      "Starea apartamentului": "Euroreparație",
+      "Bloc sanitar": "1",
+      "Nivelul": "9",
+      "Număr de nivele": "11",
+      "Numărul de camere": "Apartament cu 2 camere",
+      "Autorul anunțului": "Agenție",
+      "Fond locativ": "Construcţii noi"
+    },
+    "Adăugător": {
+      "Gata de intrare": null,
+      "Mobilat": null,
+      "Tehnică de uz casnic": null,
+      "Încălzire autonomă": null,
+      "Aparat de aer condiționat": null,
+      "Încălzire prin pardoseală": null,
+      "Ușă blindată": null,
+      "Linie telefonică": null,
+      "Sistem de alarmă": null,
+      "Teren de joacă": null
+    },
+    "Subcategorie": "https://999.md/ro/list/real-estate/apartments-and-rooms",
+    "Preț": {
+      "Euro": "100 000 €",
+      "USD": "≈ 105 951 $",
+      "Lei": "≈ 1 924 890 lei"
+    },
+    "Regiunea": "Moldova,  Chișinău mun.,  Chișinău,  Botanica,  str. Constantin Vârnav-",
+    "Contacte": "tel:+37376097770"
   }
 ]
