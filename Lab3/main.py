@@ -4,7 +4,7 @@ from homework import extractInfoFromPage
 
 if __name__ == "__main__":
     inputUrl = "https://999.md/ro/list/real-estate/apartments-and-rooms?applied=1&eo=12900&eo=12912&eo=12885&eo=13859&ef=32&ef=33&o_33_1=776"
-    links = parseLinks(inputUrl, 1)
+    links = parseLinks(inputUrl, 3)
     jsonLinks = json.dumps(links, indent=2)
     fileName = "extractedLinks.json"
     try:
