@@ -1,19 +1,16 @@
+import base64
 import socket
 import threading
 import json
 import os
 
-# Server configuration
-HOST = '127.0.0.1'  # Server's IP address
-PORT = 8080  # Server's port
-# Create a socket
+HOST = '127.0.0.1'
+PORT = 8080
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-# Connect to the server
 client_socket.connect((HOST, PORT))
 print(f"Connected to {HOST}:{PORT}")
 
 
-# Function to receive and display messages
 def receive_messages():
     while True:
         receivedMessage = client_socket.recv(1024).decode('utf-8')
@@ -21,9 +18,14 @@ def receive_messages():
             break
         try:
             receivedMessage = json.loads(receivedMessage)
-            clientFile = open("media/client/" + receivedMessage["payload"]["fileName"], "wt")
-            clientFile.write(receivedMessage["payload"]["file"])
-            clientFile.close()
+            if os.path.splitext(receivedMessage["payload"]["fileName"])[1].lower() == ".png":
+                clientFile = open("media/client/" + receivedMessage["payload"]["fileName"], "wb")
+                clientFile.write(base64.b64decode(receivedMessage["payload"]["file"]))
+                clientFile.close()
+            else:
+                clientFile = open("media/client/" + receivedMessage["payload"]["fileName"], "wt")
+                clientFile.write(receivedMessage["payload"]["file"])
+                clientFile.close()
             print(f"\nSaved {receivedMessage['payload']['fileName']} in media/client/")
         except:
             print(f"\nReceived: {receivedMessage}")
@@ -58,9 +60,15 @@ while True:
                     print(f"Path: '{filePath}' is not a file. Please enter a valid file path.")
             else:
                 print(f"Path: '{filePath}' doesn't exist. Please enter a valid file path.")
-        file = open(filePath, "rt")
-        contents = file.read()
-        file.close()
+        contents = ""
+        if os.path.splitext(filePath)[1].lower() == ".txt":
+            file = open(filePath, "rt")
+            contents = file.read()
+            file.close()
+        elif os.path.splitext(filePath)[1].lower() == ".png":
+            with open(filePath, "rb") as file:
+                contents = base64.b64encode(file.read()).decode('utf-8')
+                file.close()
         sendMessage = {
             "type": "upload",
             "payload": {
@@ -73,7 +81,12 @@ while True:
         sendMessage = json.dumps(sendMessage)
         client_socket.send(sendMessage.encode('utf-8'))
     elif message.lower() == 'd':
-        file = input("Enter the file name.extension to download: ")
+        while True:
+            file = input("Enter the file name.extension to download: ")
+            if file == "":
+                print("Please enter a valid file name.extension")
+            else:
+                break
         sendMessage = {
             "type": "download",
             "payload": {
