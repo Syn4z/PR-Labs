@@ -1,0 +1,5 @@
+Hello Everyone
+
+This is a test file that a client tries to send via this chat.
+
+The server should save this content to a file.
