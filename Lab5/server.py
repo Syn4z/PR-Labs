@@ -92,6 +92,5 @@ clients = []
 while True:
     client_socket, client_address = server_socket.accept()
     clients.append(client_socket)
-    # Start a thread to handle the client
     client_thread = threading.Thread(target=handle_client, args=(client_socket, client_address))
     client_thread.start()
