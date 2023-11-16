@@ -3,6 +3,7 @@ import threading
 import pika
 from infoExtract import *
 from tinydb import TinyDB
+import os
 
 db_lock = threading.Lock()
 

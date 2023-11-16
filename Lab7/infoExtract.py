@@ -21,9 +21,12 @@ def extractInfoFromPage(url):
             value += soup.find('span', class_='cardojo-Price-currencySymbol').text.strip()
             info[groupTitle] = value
         elif groupTitle == 'Vânzător':
-            category = soup.find('div', class_='media-body')
-            value = category.find('h5', class_='mb-0').text.strip()
-            info[groupTitle] = value
+            try:
+                category = soup.find('div', class_='media-body')
+                value = category.find('h5', class_='mb-0').text.strip()
+                info[groupTitle] = value
+            except AttributeError:
+                info[groupTitle] = None
         elif groupTitle == 'Caracteristici':
             for category in soup.find_all('div', class_='rounded shadow bg-dark position-relative single_car__specifications'):
                 for row in category.find_all('div', class_='col-6 col-md-4 item'):

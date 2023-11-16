@@ -20,5 +20,5 @@ def send_urls_to_queue(urls):
 
 if __name__ == "__main__":
     start_url = "https://interauto.md/automobile"
-    urls = parseLinks(start_url, 5)
+    urls = parseLinks(start_url, 1)
     send_urls_to_queue(urls)
