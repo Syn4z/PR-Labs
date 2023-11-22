@@ -1,0 +1,176 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "PR Lab8",
+      "version": "1.0.0"
+    },
+    "paths": {
+      "/api/electro-scooters": {
+        "get": {
+          "description": "Returns the list of all scooters",
+          "consumes": [
+            "application/json"
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "responses": {
+            "200": {
+              "description": "List of scooters"
+            },
+            "400": {
+              "description": "Invalid request data"
+            }
+          }
+        },
+        "post": {
+          "description": "Post a scooter",
+          "consumes": [
+            "application/json"
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "parameters": [
+            {
+              "name": "Scooter",
+              "in": "body",
+              "description": "JSON data for the scooter",
+              "required": true,
+              "schema": {
+                "$ref": "#/definitions/Scooter"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Specific Scooter"
+            },
+            "400": {
+              "description": "Invalid request data"
+            }
+          }
+        }
+      },
+    "/api/electro-scooters/{id}": {
+        "get": {
+          "description": "Returns a scooter by id",
+          "consumes": [
+            "id"
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "parameters": [
+            {
+              "name": "id",
+              "in": "path",
+              "description": "Scooter id",
+              "required": true,
+              "schema": {
+              "type": "integer",
+              "minimum": 1
+            }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Specific Scooter"
+            },
+            "400": {
+              "description": "Invalid request data"
+            }
+          }
+        },
+        "put": {
+          "description": "Modify a scooter",
+          "consumes": [
+            "application/json"
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "parameters": [
+            {
+              "name": "id",
+              "in": "path",
+              "description": "Scooter id",
+              "required": true,
+              "schema": {
+              "type": "integer",
+              "minimum": 1
+            }
+            },
+            {
+              "name": "Scooter",
+              "in": "body",
+              "description": "JSON data for the scooter",
+              "required": true,
+              "schema": {
+                "$ref": "#/definitions/Scooter"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Electro Scooter updated successfully"
+            },
+            "400": {
+              "description": "Invalid request data"
+            }
+          }
+        },
+        "delete": {
+          "description": "Delete a scooter",
+          "consumes": [
+            "application/json"
+          ],
+          "produces": [
+            "application/json"
+          ],
+          "parameters": [
+            {
+              "name": "id",
+              "in": "path",
+              "description": "Scooter id",
+              "required": true,
+              "schema": {
+              "type": "integer",
+              "minimum": 1
+            }
+            },
+            {
+              "name": "X-Delete-Password",
+              "in": "header",
+              "description": "Password",
+              "required": true,
+              "schema": {
+              "type": "string"
+            }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Electro Scooter updated successfully"
+            },
+            "400": {
+              "description": "Invalid request data"
+            }
+          }
+        }
+      }
+    },
+    "definitions": {
+      "Scooter": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "battery_level": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
