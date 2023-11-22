@@ -15,7 +15,7 @@ class Raft:
 
         try:
             self.udp_socket.bind((self.udp_host, self.udp_port))
-            print("Leader")
+            print("Service Role: Leader")
             self.role = "leader"
             self.followers = []
 
@@ -34,7 +34,7 @@ class Raft:
                     self.followers.append(follower_data)
 
         except Exception as e:
-            print("Follower")
+            print("Service Role: Follower")
             self.role = "follower"
             self.leader_data = self.send_accept("Accept")
             self.leader_data["Token"] = "Leader"

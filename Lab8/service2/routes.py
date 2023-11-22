@@ -13,7 +13,7 @@ def create_electro_scooter():
         }, 403
     elif "Token" not in headers or headers["Token"] != "Leader":
         return {
-            "message": "Access denied!"
+            "message": "Access denied! Token is not provided or is incorrect!"
         }, 403
     else:
         try:
@@ -65,7 +65,7 @@ def update_electro_scooter(scooter_id):
         }, 403
     elif "Token" not in headers or headers["Token"] != "Leader":
         return {
-            "message": "Access denied!"
+            "message": "Access denied! Token is not provided or is incorrect!"
         }, 403
     else:
         try:
@@ -95,7 +95,7 @@ def delete_electro_scooter(scooter_id):
         }, 403
     elif "Token" not in headers or headers["Token"] != "Leader":
         return {
-            "message": "Access denied!"
+            "message": "Access denied! Token is not provided or is incorrect!"
         }, 403
     else:
         try:

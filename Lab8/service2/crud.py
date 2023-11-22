@@ -8,7 +8,6 @@ class CrudElectroScooter:
             self.followers = followers
 
     def post_electro_scooter(self, user_dict: dict):
-        print("Leader: ", self.leader)
         if self.leader:
             for follower in self.followers:
                 requests.post(f"http://{follower['host']}:{follower['port']}/api/electro-scooters",

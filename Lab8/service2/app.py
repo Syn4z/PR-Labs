@@ -2,9 +2,6 @@ from flask import Flask
 from raft import *
 from models.database import db
 from flask_swagger_ui import get_swaggerui_blueprint
-from models.electro_scooter import ElectroScooter
-
-import threading
 import random
 import time
 
@@ -36,9 +33,7 @@ if __name__ == '__main__':
 
     print("Starting service...")
     time.sleep(random.randint(1, 3))
-
     crud = Raft(service_info).get_crud_object()
-
     app.register_blueprint(swagger_ui_blueprint, url_prefix=SWAGGER_URL)
     import routes
 
