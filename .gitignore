@@ -3,3 +3,5 @@
 *venv/
 *myenv/
 Lab2/player_pb2.py
+Lab9/*.txt
+Lab9/client.py
