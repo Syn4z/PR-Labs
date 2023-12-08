@@ -6,7 +6,7 @@ from ftplib import FTP
 app = Flask(__name__)
 
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/api/email', methods=['GET', 'POST'])
 def index():
     email_status = None
     if request.method == 'POST':
@@ -30,8 +30,7 @@ def index():
             with open(request.form['attachment'], 'rb') as local_file:
                 ftp.storbinary(f'STOR {request.form["attachment"]}', local_file)
         except:
-            email_status = 'failure'
-            return render_template('index.html', email_status=email_status)
+            pass
 
         try:
             with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
